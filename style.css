@@ -1,0 +1,41 @@
+body {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 0 24px;
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.7;
+  color: #222;
+  background: #ffffff;
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 8px;
+}
+
+h2 {
+  margin-top: 36px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 6px;
+}
+
+a {
+  color: #0057b8;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.nav {
+  margin: 20px 0 35px 0;
+}
+
+.nav a {
+  margin-right: 16px;
+}
+
+.small {
+  color: #666;
+}
